@@ -1,11 +1,8 @@
-import React from 'react'
+import React from 'react';
+import PreviewPage from './PreviewPage';
 
 const PublishPage = () => {
-  return (
-    <div>
-      PP
-    </div>
-  )
-}
+  return <PreviewPage />;
+};
 
-export default PublishPage
+export default PublishPage;

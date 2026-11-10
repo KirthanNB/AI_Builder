@@ -1,0 +1,16 @@
+{
+  "name": "ai-builder",
+  "version": "1.0.0",
+  "description": "Ignited Minds - Production AI Website Builder SaaS Platform",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node --watch server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": ["ai", "website-builder", "react", "sandpack", "saas", "fullstack"],
+  "author": "Ignited Minds",
+  "license": "MIT"
+}
+
