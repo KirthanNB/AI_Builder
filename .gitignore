@@ -7,4 +7,3 @@ client/dist
 server/.env
 .DS_Store
 *.log
-
